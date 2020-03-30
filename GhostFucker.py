@@ -3,7 +3,7 @@
 #----------------------------------------------------------#
 # CODED BY  : JHON                                         #
 # CODENAME  : MR-X666X & E-XPLOIT1337                      #
-# TOOL NAME : PRIV7 GHOST FUCKER BING V1.0                 #
+# TOOL NAME : PRIV7 GHOST FUCKER CMS DETECTOR              #
 # JOB TOOL  : VERY SUPER FAST TO CMS DETECTOR              #
 # TEAM WORK : BLACK CODERS ANONYMOUS & SEVEN GHOST TEAM    #
 #----------------------------------------------------------#
